@@ -28,7 +28,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
-- [SaaS/Hosted Platforms](#saas-products)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
 
@@ -40,63 +40,22 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Ramp](https://ramp.com/)**  
-
-  Leading corporate card and spend management platform known for high cashback, zero fees, real-time controls, and strong automation for startups and growing companies.
-
-
-
-- **[Brex](https://www.brex.com/)**  
-
-  Corporate card and financial platform popular with venture-backed startups, offering higher limits, rewards, and integrated banking/spend tools.
-
-
-
-- **[Rho](https://www.rho.co/)**  
-
-  Banking, corporate cards, and accounts-payable platform tailored for startups and mid-market companies seeking an all-in-one finance stack.
+| Platform | Description | Pricing | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Ramp](https://ramp.com/)** | Leading corporate card and spend management platform known for high cashback, zero fees, real-time controls, and strong automation for startups and growing companies. | Free ($0/user/mo for Core plan); $15/user/mo for Ramp Plus ($12/user/mo billed annually) | Free-forever Core plan includes unlimited virtual/physical cards, unlimited users, core expense management, and basic accounting sync. Plus tier offers a 30-day free trial. |
+| **[Brex](https://www.brex.com/)** | Corporate card and financial platform popular with venture-backed startups, offering higher limits, rewards, and integrated banking/spend tools. | Free ($0/user/mo for Essentials plan); $12/user/mo for Premium plan | Free-forever Essentials plan includes unlimited users and cards, spend management, travel booking, and bill pay (requires LLC/Corp entity and $50k+ cash balance). |
+| **[Rho](https://www.rho.co/)** | Banking, corporate cards, and accounts-payable platform tailored for startups and mid-market companies seeking an all-in-one finance stack. | Free ($0/mo platform subscription, $0/user, $0/card) | Free-forever full access with unlimited users, physical/virtual corporate cards, AP automation, and banking integrations. Only standard transactional fees apply (e.g., 1% FX transfer fee, $15 SWIFT). |
+| **[Airbase](https://www.airbase.com/)** | Comprehensive spend management and AP automation platform with corporate cards, purchase orders, and strong accounting integrations. | Standard tier starts from ~$3,000–$6,000/yr (~$250–$500/mo billed annually for up to 200 employees) | No permanent free plan. Offers a 14-day free trial and guided sandbox access upon sales demo to test card issuance and spend workflows. |
+| **[Mesh Payments](https://meshpayments.com/)** | Global corporate card and spend management solution focused on multi-currency controls and enterprise visibility. | Free ($0/mo for Pro tier up to 3 users); Premium starts at $10/user/mo | Free-forever Pro plan limited to up to 3 users with unlimited cards, cashback on spend, and core spend management. Guided trial available on request for larger teams. |
+| **[Pleo](https://www.pleo.io/)** | European corporate card and expense platform designed for easy employee spending with automated receipt capture and bookkeeping. | Starter starts at £9.50/mo (billed annually for 3 users); Essential starts at £39/mo for 3 users (+£11/additional user/mo) | No permanent free plan. Offers a 14-day free trial on Starter and Essential plans with full access to physical/virtual cards, automated receipt capture, and accounting sync. |
+| **[Moss](https://www.getmoss.com/)** | Corporate card and spend management platform popular in Europe, combining cards, invoices, and financial controls. | Free (€0/mo on Free Plan); Paid modular plans start from ~€99/mo | Free-forever plan limited to up to 3 users, up to 20 invoices/month, unlimited cards (debit wallet only), and basic approval workflows. Custom demo for paid modular tiers. |
+| **[Divvy by BILL (BILL Spend & Expense)](https://www.bill.com/)** | Budget-focused corporate card and spend management tool with real-time controls, now integrated into the broader BILL platform. | Free ($0/mo platform subscription, $0/user, $0/card) | Free-forever full access with unlimited users, unlimited physical & virtual credit cards, custom budgets, expense approvals, and accounting integrations (monetized via merchant interchange fees). |
+| **[Emburse Cards](https://www.emburse.com/)** | Enterprise expense and card solutions within the Emburse suite, supporting complex travel and spend programs. | Basic starts at $8/user/mo ($7/user/mo billed annually); Plus at $12/user/mo ($11/user/mo billed annually) | No permanent free software plan (card issuing has $0 fee). Offers a 30-day free trial with full access to card controls, receipt OCR, accounting sync, and up to 50 monthly ACH reimbursements. |
+| **[Soldo](https://www.soldo.com/)** | Prepaid and corporate card platform offering spend controls, multi-user cards, and expense management for businesses of various sizes. | Standard starts at £21/mo (includes base card allocation; +£7/additional user/mo); Plus starts at £33/mo | No permanent free plan. Offers a 30-day free trial on Standard and Plus tiers with full access to multi-user spend controls, cards, and reporting (standard transactional/ATM fees apply). |
 
 
 
-- **[Airbase](https://www.airbase.com/)**  
 
-  Comprehensive spend management and AP automation platform with corporate cards, purchase orders, and strong accounting integrations (now part of broader finance suites).
-
-
-
-- **[Mesh Payments](https://meshpayments.com/)**  
-
-  Global corporate card and spend management solution focused on multi-currency controls and enterprise visibility.
-
-
-
-- **[Pleo](https://www.pleo.io/)**  
-
-  European corporate card and expense platform designed for easy employee spending with automated receipt capture and bookkeeping.
-
-
-
-- **[Moss](https://www.getmoss.com/)**  
-
-  Corporate card and spend management platform popular in Europe, combining cards, invoices, and financial controls.
-
-
-
-- **[Divvy by BILL (BILL Spend & Expense)](https://www.bill.com/)**  
-
-  Budget-focused corporate card and spend management tool with real-time controls, now integrated into the broader BILL platform.
-
-
-
-- **[Emburse Cards](https://www.emburse.com/)**  
-
-  Enterprise expense and card solutions within the Emburse suite, supporting complex travel and spend programs.
-
-
-
-- **[Soldo](https://www.soldo.com/)**  
-
-  Prepaid and corporate card platform offering spend controls, multi-user cards, and expense management for businesses of various sizes.
 
 
 
